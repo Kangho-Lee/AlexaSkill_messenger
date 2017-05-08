@@ -1,0 +1,11 @@
+MyMessageIntent send {Message}
+MyMessageIntent post {Message}
+MessageEndIntent close message
+MessageEndIntent close messaging
+MessageEndIntent close text
+SetTargetIntent set launguage as {target}
+SetTargetIntent set launguage {target}
+SetTargetIntent choose {target}
+SetTargetIntent translate to {target}
+SetChannelIntent set slack channel as {channel}
+SetChannelIntent set slack channel {channel}

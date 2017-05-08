@@ -1,0 +1,34 @@
+LIST_OF_CHANNEL
+general
+suyoung
+kangho
+
+
+LIST_OF_TARGET
+korean
+chinese
+german
+
+SLACK_MESSAGE
+Hello
+Hello World
+This is my message
+Hey
+I'm on my way
+I'm running late today
+This is a short message
+This is a longer message with more words that I want people in slack to see
+OK
+of course
+of course not
+that's fine
+that's right
+sure
+certainly
+definitely
+absolutely
+as soon as possible
+ha ha ha
+haha
+
+
